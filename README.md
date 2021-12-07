@@ -25,7 +25,6 @@
 </div>
 
 # 
-
 <div>
 <a href="https://github.com/Brunohpc">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunohpc&layout=compact&langs_count=7&theme=dracula"/>
