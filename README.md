@@ -1,8 +1,8 @@
 ### welcome 👋
 ## Bruno Henrique
 
-- 🔭 Trabalhando como Backend jr.
-- 🌱 Atualmente estou aprendendo Node 
+- 🔭 Trabalhando como Backend .
+
 - 💻 Ubunto | Windows
 - 👦 25 anos
 - ⚛ Tecnologias Java | JavaScript | Node | React
